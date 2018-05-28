@@ -15,15 +15,59 @@ It's tough to protect what you don't know.
 
 Note:
 Educate, keep up to date, share
-+++
-# Injection
+---image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
+# 1 - Injection
 * SQL |
-    * Parameterized Queries |
-    * Don't wrap your own - ORM @note[Entity Framework, NHibernate, CakePHP, Laravel. Keep up to date]
+* NoSQL
+* LDAP
+
++++
+
+# 1 - Injection - Prevention
+
+* Parameterized Queries |
+* Don't wrap your own - ORM | @note[Entity Framework, NHibernate, CakePHP, Laravel. Keep up to date]
+* Validate input - white lists / black lists
+
+---
+
+# 2 - Broken Authentication
+
+* Credential stuffing
+* Brute Force
+* Allowing weak passwords
+* Improper token invalidation
+
+---
+# 3 - Sensitive Data Exposure
+
+---
+# 4 - XML External Entities
+
+---
+# 5 - Broken Access Control
+
+---
+# 6 - Security Misconfiguration
+
+---
+# 7 - XSS (Cross-Site Scripting)
+
+---
+# 8 - Insecure Deserialization
+
+---
+# 9 - Known Valnerabilities in Componentes
+
+---
+# 10 - Insufficient Monitoring
+
 ---
 # Passwords
 
----image=https://orig00.deviantart.net/29cf/f/2009/228/b/5/spectrum_wave_by_monkeymagico.png
+---image=assets/spectrum_wave_by_monkeymagico.png
+
+[comment]: # (Image found at https://monkeymagico.deviantart.com/art/Spectrum-Wave-133641157)
 
 # The Spectrum
 Security a journey, not a destination
