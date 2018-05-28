@@ -17,26 +17,39 @@ Note:
 Educate, keep up to date, share
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
 # 1 - Injection
-* SQL |
+
+@ul
+
+* SQL
 * NoSQL
 * LDAP
+
+@ulend
 
 +++
 
 # 1 - Injection - Prevention
 
-* Parameterized Queries |
-* Don't wrap your own - ORM | @note[Entity Framework, NHibernate, CakePHP, Laravel. Keep up to date]
+@ul
+
+* Parameterized Queries
+* Don't wrap your own - ORM @note[Entity Framework, NHibernate, CakePHP, Laravel. Keep up to date]
 * Validate input - white lists / black lists
+
+@ulend
 
 ---
 
 # 2 - Broken Authentication
 
+@ul
+
 * Credential stuffing
 * Brute Force
 * Allowing weak passwords
 * Improper token invalidation
+
+@ulend
 
 ---
 # 3 - Sensitive Data Exposure
