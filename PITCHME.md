@@ -8,7 +8,7 @@ We all know rocket science is easy.
 Note:
 At least compared to security
 ---
-# Attack Vectors
+## Attack Vectors
 It's tough to protect what you don't know.
 - OWasp (Open Web Application Security Project)
 - Pluralsight
@@ -16,7 +16,7 @@ It's tough to protect what you don't know.
 Note:
 Educate, keep up to date, share
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
-# 1 - Injection
+## 1 - Injection
 
 @ul
 
@@ -28,7 +28,7 @@ Educate, keep up to date, share
 
 +++
 
-# 1 - Injection - Prevention
+## 1 - Injection - Prevention
 
 @ul
 
@@ -40,7 +40,7 @@ Educate, keep up to date, share
 
 ---
 
-# 2 - Broken Authentication
+## 2 - Broken Authentication
 
 @ul
 
@@ -52,28 +52,28 @@ Educate, keep up to date, share
 @ulend
 
 ---
-# 3 - Sensitive Data Exposure
+## 3 - Sensitive Data Exposure
 
 ---
-# 4 - XML External Entities
+## 4 - XML External Entities
 
 ---
-# 5 - Broken Access Control
+## 5 - Broken Access Control
 
 ---
-# 6 - Security Misconfiguration
+## 6 - Security Misconfiguration
 
 ---
-# 7 - XSS (Cross-Site Scripting)
+## 7 - XSS (Cross-Site Scripting)
 
 ---
-# 8 - Insecure Deserialization
+## 8 - Insecure Deserialization
 
 ---
-# 9 - Known Valnerabilities in Componentes
+## 9 - Known Valnerabilities in Componentes
 
 ---
-# 10 - Insufficient Monitoring
+## 10 - Insufficient Monitoring
 
 ---
 # Passwords
@@ -83,7 +83,7 @@ Educate, keep up to date, share
 [comment]: # (Image found at https://monkeymagico.deviantart.com/art/Spectrum-Wave-133641157)
 
 # The Spectrum
-Security a journey, not a destination
+<span>Security a journey, not a destination</span>
 @ul
 * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
 @ulend
