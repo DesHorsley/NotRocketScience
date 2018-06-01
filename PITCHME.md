@@ -16,9 +16,11 @@ It's tough to protect what you don't know.
 Note:
 Educate, keep up to date, share
 --- ?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
+@transition[none]
 
 ## 1 - Injection
 
+@transition[none]
 +++ ?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
 @transition[none]
 
