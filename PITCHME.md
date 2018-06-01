@@ -26,12 +26,9 @@ Educate, keep up to date, share
 
 ## 1 - Injection
 
-* SQL
-@ul
-* NoSQL
-* LDAP
-
-@ulend
+* SQL |
+* NoSQL |
+* LDAP |
 
 +++
 
