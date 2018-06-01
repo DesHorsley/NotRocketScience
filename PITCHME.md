@@ -15,7 +15,7 @@ It's tough to protect what you don't know.
 
 Note:
 Educate, keep up to date, share
----?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
+---@transition[none]?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
 ## 1 - Injection
 
 @ul
@@ -26,7 +26,7 @@ Educate, keep up to date, share
 
 @ulend
 
-+++
++++@transition[none]
 
 ## 1 - Injection - Prevention
 
@@ -83,7 +83,7 @@ Educate, keep up to date, share
 [comment]: # (Image found at https://monkeymagico.deviantart.com/art/Spectrum-Wave-133641157)
 
 # The Spectrum
-<span class="dark-background">Security a journey, not a destination</span>
+<span class="dark-background"><span>Security a journey, not a destination</span></span>
 @ul
 * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
 @ulend
