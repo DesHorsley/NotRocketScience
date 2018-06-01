@@ -26,9 +26,9 @@ Educate, keep up to date, share
 
 ## 1 - Injection
 
-@ul
 
-* SQL
+* <span class="dark-background"><span>SQL</span></span>
+@ul[dark-background]
 * NoSQL
 * LDAP
 
