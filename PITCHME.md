@@ -83,7 +83,7 @@ Educate, keep up to date, share
 [comment]: # (Image found at https://monkeymagico.deviantart.com/art/Spectrum-Wave-133641157)
 
 # The Spectrum
-<span>Security a journey, not a destination</span>
+<span class="dark-background">Security a journey, not a destination</span>
 @ul
 * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
 @ulend
