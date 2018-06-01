@@ -19,7 +19,8 @@ Educate, keep up to date, share
 
 ## 1 - Injection
 
-+++@transition[none]
++++
+@transition[none]
 
 ## 1 - Injection
 
