@@ -21,14 +21,13 @@ Educate, keep up to date, share
 ## 1 - Injection
 
 @transition[none]
-+++ ?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
++++
 @transition[none]
 
 ## 1 - Injection
 
-
-* <span class="dark-background"><span>SQL</span></span>
-@ul[dark-background]
+* SQL
+@ul
 * NoSQL
 * LDAP
 
