@@ -80,23 +80,27 @@ Educate, keep up to date, share
 
 ## 3 - Sensitive Data Exposure
 
-* Transmission of data over clear text (HTTP, SMTP, FTP) @note[External traffic, load balancers, internal routing] |
-* Storage of sensitive data @note[Plain text, encryption at rest, backups, logs] |
-* Use of old or weak cryptographic algorithms |
-* Use of weak keys |
-* Not enforcing encryption (Missing headers) |
+@ul
+* Transmission of data over clear text (HTTP, SMTP, FTP) @note[External traffic, load balancers, internal routing]
+* Storage of sensitive data @note[Plain text, encryption at rest, backups, logs]
+* Use of old or weak cryptographic algorithms
+* Use of weak keys
+* Not enforcing encryption (Missing headers)
+@ulend
 
 +++
 
 ### 3 - Sensitive Data Exposure - Prevention
 
-* Identify sensitive data (Laws, regulation, policy) | @note[HIPA, Australian Privacy Act 1988]
-* Apply appropriate controls for the class of data |
-* Don't store sensitive Data unnecessarily | @note[They can't take what you don't have]
-* Encryption at rest | @note[Opinions in regards to cloud?]
-* HTTPS |
-* Disable caching of sensitive data |
-* Store passwords with strong encryption | @note[Argon2, scrypt, bcrypt, PBKDF2]
+@ul
+* Identify sensitive data (Laws, regulation, policy) @note[HIPA, Australian Privacy Act 1988]
+* Apply appropriate controls for the class of data
+* Don't store sensitive Data unnecessarily @note[They can't take what you don't have]
+* Encryption at rest @note[Opinions in regards to cloud?]
+* HTTPS
+* Disable caching of sensitive data
+* Store passwords with strong encryption @note[Argon2, scrypt, bcrypt, PBKDF2]
+@ulend
 ---
 
 ## 4 - XML External Entities
