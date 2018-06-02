@@ -90,13 +90,13 @@ Educate, keep up to date, share
 
 ### 3 - Sensitive Data Exposure - Prevention
 
-* Identify sensitive data (Laws, regulation, policy) @note[HIPA, Australian Privacy Act 1988] |
+* Identify sensitive data (Laws, regulation, policy) | @note[HIPA, Australian Privacy Act 1988]
 * Apply appropriate controls for the class of data |
-* Don't store sensitive Data unnecessarily @note[They can't take what you don't have] |
-* Encryption at rest @note[Opinions in regards to cloud?] |
+* Don't store sensitive Data unnecessarily | @note[They can't take what you don't have]
+* Encryption at rest | @note[Opinions in regards to cloud?]
 * HTTPS |
 * Disable caching of sensitive data |
-* Store passwords with strong encryption @note[Argon2, scrypt, bcrypt, PBKDF2] |
+* Store passwords with strong encryption | @note[Argon2, scrypt, bcrypt, PBKDF2]
 ---
 
 ## 4 - XML External Entities
