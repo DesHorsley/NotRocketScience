@@ -32,7 +32,7 @@ Educate, keep up to date, share
 
 +++
 
-## 1 - Injection - Prevention
+### 1 - Injection - Prevention
 
 @ul
 
@@ -46,37 +46,65 @@ Educate, keep up to date, share
 
 ## 2 - Broken Authentication
 
-@ul
++++
+@transition[none]
+
+## 2 - Broken Authentication
 
 * Credential stuffing
-* Brute Force
-* Allowing weak passwords
-* Improper token invalidation
+* Brute Force |
+* Allowing weak passwords |
+* Improper token invalidation |
+
++++
+
+### 2 - Broken Authentication - Prevention
+
+@ul
+
+MFA @note[How to deal with account lockouts]
+Don't allow weak passwords @note[Have I been pwned, Okta etc]
+Harden against enumeration attacks
+Delay failed login attempts <sup>*</sup>
 
 @ulend
 
 ---
+
+## 3 - Sensitive Data Exposure
+
++++
+
+@transition[none]
+
 ## 3 - Sensitive Data Exposure
 
 ---
+
 ## 4 - XML External Entities
 
 ---
+
 ## 5 - Broken Access Control
 
 ---
+
 ## 6 - Security Misconfiguration
 
 ---
+
 ## 7 - XSS (Cross-Site Scripting)
 
 ---
+
 ## 8 - Insecure Deserialization
 
 ---
+
 ## 9 - Known Valnerabilities in Componentes
 
 ---
+
 ## 10 - Insufficient Monitoring
 
 ---
@@ -91,3 +119,11 @@ Educate, keep up to date, share
 @ul
 * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
 @ulend
+
+---
+## Thanks for listening
+
+### References
+
+https://www.owasp.org
+https://haveibeenpwned.com/
