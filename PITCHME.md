@@ -62,14 +62,14 @@ Educate, keep up to date, share
 ### 2 - Broken Authentication - Prevention
 
 @ul
-
 * MFA @note[How to deal with account lockouts]
 * Don't allow weak passwords @note[Have I been pwned, Okta etc]
 * Harden against enumeration attacks
 * Delay failed login attempts <sup>*</sup>
-* More details: https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication
+* More details
 @ulend
 
+@footnote[https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication]
 ---
 
 ## 3 - Sensitive Data Exposure
