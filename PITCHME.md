@@ -1,7 +1,7 @@
 ## Security, it's not rocket science
 ### Lessons learnt from NDC Security Sydney 2018
 
----?image=assets/Falcon_Heavy.jpg&size=cover
+---
 @title[Its harder]
 
 We all know rocket science is easy.
@@ -15,14 +15,11 @@ It's tough to protect what you don't know.
 
 Note:
 Educate, keep up to date, share
---- ?image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Syringe_with_Certolizumab_pegol-1800.jpg/1024px-Syringe_with_Certolizumab_pegol-1800.jpg
-@transition[none]
+--- 
 
 ## 1 - Injection
 
-@transition[none]
 +++
-@transition[none]
 
 ## 1 - Injection
 
@@ -46,9 +43,7 @@ Educate, keep up to date, share
 
 ## 2 - Broken Authentication
 
-@transition[none]
 +++
-@transition[none]
 
 ## 2 - Broken Authentication
 
@@ -69,14 +64,11 @@ Educate, keep up to date, share
 * More details
 @ulend
 
-@footnote[https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication]
 ---
 
 ## 3 - Sensitive Data Exposure
 
-@transition[none]
 +++
-@transition[none]
 
 ## 3 - Sensitive Data Exposure
 
@@ -103,11 +95,51 @@ Educate, keep up to date, share
 @ulend
 ---
 
-## 4 - XML External Entities
+## 4 - XML External Entities (XXE)
+
++++
+
+## 4 - XML External Entities (XXE)
+
+@ul
+* Application that accept xml either directly or as an uploaded file
+* SAML for authentication @note[SAML uses XML for identity assertions]
+* SOAP pre 1.2
+* DDOS - Billion laughs attack
+@ulend
+
++++ 4 - XML External Entities (XXE) - Prevention
+
+@ul
+* Developer training to identify and mitigate 
+* Where possible use less complex formats like JSON
+* Patch and upgrade all XML processors Update to SOAP 1.2+
+* Disable XML external entitiy and DTD processing in all parsers in the application
+* Implement server-side whitelisting of input validation
+* Utilise manual source control review
+@ulend
+
++++ 4 - XML External Entities (XXE) - Prevention
+
+Additionally API sercurity gateways, Web Application Firewalls , and virtual patching can be used to detect, monitor and block XXE attacks.
 
 ---
 
 ## 5 - Broken Access Control
+
+@ul
+* Bypassing control checks 
+* Allowing primary key to be changed to another users
+* Elevation of privileges
+* Metadata manipulation - JWT, Cookies, Hidden Fields
+* CORS misconfiguration - unauthorized API access
+* Missing access controls for POST, PUT and DELETE
+@ulend
+
+@note[Static Application Security Testing, Dynamic Application Security Testing, Automation tools for detection]
++++
+
+## 5 - Broken Access Control - Prevention
 
 ---
 
@@ -116,6 +148,13 @@ Educate, keep up to date, share
 ---
 
 ## 7 - XSS (Cross-Site Scripting)
+
+
+@ul
+* Use of frameworks to excape XSS @note[Ruby on Rails, React JS]
+* CSP's in the absince of other vulnerabilities
+* Escaping data and context-sensitive encoding
+@ulend
 
 ---
 
