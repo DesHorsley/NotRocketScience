@@ -147,10 +147,27 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 
 ## 5 - Broken Access Control - Prevention
 
+@ul
+* Deny by default (except public)
+* DRY @note[implment access control once, reuse where possible]
+* Disable web server directory listing 
+  * Ensure metadata is not present in webroots
+* Log access control failures
+* Rate limit APIs where appropriate
+* Invalidate JWT tokens on the server after logout
+@ulend
+
 ---
 
 ## 6 - Security Misconfiguration
 
++++
+
+## 6 - Security Misconfiguration
+
+@ul
+* 
+@ulend
 ---
 
 ## 7 - XSS (Cross-Site Scripting)
