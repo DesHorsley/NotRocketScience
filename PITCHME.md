@@ -127,6 +127,10 @@ Additionally API sercurity gateways, Web Application Firewalls , and virtual pat
 
 ## 5 - Broken Access Control
 
++++
+
+## 5 - Broken Access Control
+
 @ul
 * Bypassing control checks 
 * Allowing primary key to be changed to another users
@@ -136,7 +140,9 @@ Additionally API sercurity gateways, Web Application Firewalls , and virtual pat
 * Missing access controls for POST, PUT and DELETE
 @ulend
 
-@note[Static Application Security Testing, Dynamic Application Security Testing, Automation tools for detection]
+Note:
+Static Application Security Testing, Dynamic Application Security Testing, Automation tools for detection
+
 +++
 
 ## 5 - Broken Access Control - Prevention
@@ -149,6 +155,9 @@ Additionally API sercurity gateways, Web Application Firewalls , and virtual pat
 
 ## 7 - XSS (Cross-Site Scripting)
 
++++
+
+## 7 - XSS (Cross-Site Scripting)
 
 @ul
 * Use of frameworks to excape XSS @note[Ruby on Rails, React JS]
