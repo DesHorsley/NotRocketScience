@@ -7,15 +7,20 @@
 We all know rocket science is easy.
 Note:
 At least compared to security
+Resources:
+  - time
+  - people
+  - money
+  - training
 ---
 ## Attack Vectors
 It's tough to protect what you don't know.
 - OWasp (Open Web Application Security Project)
-- Pluralsight
+- Pluralsight @note[devops]
 
 Note:
 Educate, keep up to date, share
---- 
+---
 
 ## 1 - Injection
 
@@ -114,7 +119,7 @@ Educate, keep up to date, share
 +++ 4 - XML External Entities (XXE) - Prevention
 
 @ul
-* Developer training to identify and mitigate 
+* Developer training to identify and mitigate
 * Where possible use less complex formats like JSON
 * Patch and upgrade all XML processors Update to SOAP 1.2+
 * Disable XML external entitiy and DTD processing in all parsers in the application
@@ -135,7 +140,7 @@ Additionally API sercurity gateways, Web Application Firewalls , and virtual pat
 ## 5 - Broken Access Control
 
 @ul
-* Bypassing control checks 
+* Bypassing control checks
 * Allowing primary key to be changed to another users
 * Elevation of privileges
 * Metadata manipulation - JWT, Cookies, Hidden Fields
@@ -153,7 +158,7 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 @ul
 * Deny by default (except public)
 * DRY @note[implment access control once, reuse where possible]
-* Disable web server directory listing 
+* Disable web server directory listing
   * Ensure metadata is not present in webroots
 * Log access control failures
 * Rate limit APIs where appropriate
@@ -169,8 +174,27 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 ## 6 - Security Misconfiguration
 
 @ul
-* 
+* Missed opportunities to harden the application stack
+* Unnecessary features enabled - ports, services, pages, privileges
+* Default accounts left active with unchanged passwords
+* Exceptions and errors leaking info
+* Latest features not enabled or configured on recent upgrades
+* Security headers @note[OWasp- CSP, HSTS, X-Frame-Options]
 @ulend
+
++++
+
+## 6 - Security Misconfiguration - Prevention
+
+@ul
+* Repeatable hardening process
+* Fast easy deploys, identical environments with different credentials
+* Remove and disable unneeded features of the platform
+* Least required permissions
+* Automated checks of security
+* Segmented application architecture
+@ulend
+
 ---
 
 ## 7 - XSS (Cross-Site Scripting)
