@@ -64,6 +64,9 @@ Educate, keep up to date, share
 * More details
 @ulend
 
++++
+### 2 - Broken Authentication - References
+
 ---
 
 ## 3 - Sensitive Data Exposure
@@ -89,7 +92,7 @@ Educate, keep up to date, share
 * Apply appropriate controls for the class of data
 * Don't store sensitive Data unnecessarily @note[They can't take what you don't have]
 * Encryption at rest @note[Opinions in regards to cloud?]
-* HTTPS
+* HSTS (HTTP Strict Transport Security)
 * Disable caching of sensitive data
 * Store passwords with strong encryption @note[Argon2, scrypt, bcrypt, PBKDF2]
 @ulend
