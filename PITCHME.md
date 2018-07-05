@@ -234,6 +234,9 @@ notes:
 ## 8 - Insecure Deserialization
 
 @ul
+* Deserialization of unsafe or unknown objects
+  * Can result in remote code execution
+  * Data tampering
 @ulend
 
 +++
@@ -241,6 +244,10 @@ notes:
 ## 8 - Insecure Deserialization - Prevention
 
 @ul
+* Do not accept serialized objects from untrusted sources
+* Deserialize in low privilege environment
+* Enforce strict type constraints during deserialization
+* Improved logging - Exceptions, unusually high activity, failures
 @ulend
 
 ---
