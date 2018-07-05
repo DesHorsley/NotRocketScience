@@ -252,15 +252,30 @@ notes:
 
 ---
 
-## 9 - Known Valnerabilities in Componentes
+## 9 - Known Vulnerabilities in Components
 
 +++
 
-## 9 - Known Valnerabilities in Componentes
+## 9 - Known Vulnerabilities in Components
+
+@ul
+* Unknown components / dependencies - Server side and client side
+* Vulnerable components, out of date - OS, DBMS, Server
+* Lack of up to date knowledge of components
+* Poorly configured security in components
+@ulend
 
 +++
 
-## 9 - Known Valnerabilities in Componentes - Prevention
+## 9 - Known Vulnerabilities in Components - Prevention
+
+@ul
+* Remove unused dependencies
+* Awareness of components - Retire.js, OWasp Dependency Checks, CICD
+* Component white lists / black lists
+* Use of maintained libraries
+@ulend
+
 ---
 
 ## 10 - Insufficient Monitoring
