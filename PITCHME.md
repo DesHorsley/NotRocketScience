@@ -116,7 +116,9 @@ Educate, keep up to date, share
 * DDOS - Billion laughs attack
 @ulend
 
-+++ 4 - XML External Entities (XXE) - Prevention
++++
+
+## 4 - XML External Entities (XXE) - Prevention
 
 @ul
 * Developer training to identify and mitigate
@@ -127,7 +129,9 @@ Educate, keep up to date, share
 * Utilise manual source control review
 @ulend
 
-+++ 4 - XML External Entities (XXE) - Prevention
++++
+
+## 4 - XML External Entities (XXE) - Prevention
 
 Additionally API sercurity gateways, Web Application Firewalls , and virtual patching can be used to detect, monitor and block XXE attacks.
 
