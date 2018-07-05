@@ -199,6 +199,11 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 
 ## 7 - XSS (Cross-Site Scripting)
 
+notes:
+* Reflective
+* Stored
+* DOM Based
+
 +++
 
 ## 7 - XSS (Cross-Site Scripting)
@@ -209,17 +214,57 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 * Escaping data and context-sensitive encoding
 @ulend
 
++++
+
+## 7 - XSS - Prevention
+
+@ul
+* Use frameworks that automatically escape XSS by design (Ruby on Rails, React JS)
+* Escape untrusted HTTP request data
+* Context-sensiteve encoding when modifying browser document
+* Enable CSP
+@ulend
+
 ---
 
 ## 8 - Insecure Deserialization
+
++++
+
+## 8 - Insecure Deserialization
+
+@ul
+@ulend
+
++++
+
+## 8 - Insecure Deserialization - Prevention
+
+@ul
+@ulend
 
 ---
 
 ## 9 - Known Valnerabilities in Componentes
 
++++
+
+## 9 - Known Valnerabilities in Componentes
+
++++
+
+## 9 - Known Valnerabilities in Componentes - Prevention
 ---
 
 ## 10 - Insufficient Monitoring
+
++++
+
+## 10 - Insufficient Monitoring
+
++++
+
+## 10 - Insufficient Monitoring - Prevention
 
 ---
 # Passwords
