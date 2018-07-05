@@ -284,11 +284,26 @@ notes:
 
 ## 10 - Insufficient Monitoring
 
+@ul
+* Auditable events - logins, high value transactions
+* Not monitoring application and API logs for suspicious activity
+* Logs stored locally
+* Alert thresholds and escalation processes missing
+* Pen test scans are missing or do not trigger alarms
+@ulend
+
 +++
 
 ## 10 - Insufficient Monitoring - Prevention
 
+@ul
+* Log login, failures, validation failures
+* Centralized logging - storage, format
+* Establish alerts for suspicious patterns
+@ulend
+
 ---
+
 # Passwords
 
 ---?image=assets/spectrum_wave_by_monkeymagico.png
