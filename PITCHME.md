@@ -31,7 +31,6 @@ Pluralsight - DevOps discount
 @transition[none]
 +++
 @transition[none]
-
 ## 1 - Injection
 
 @ul
@@ -43,7 +42,6 @@ Pluralsight - DevOps discount
 @transition[none]
 +++
 @transition[none]
-
 ### 1 - Injection - Prevention
 
 @ul
