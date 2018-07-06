@@ -5,6 +5,7 @@
 @title[Its harder]
 
 We all know rocket science is easy.
+
 Note:
 At least compared to security
 Resources:
@@ -12,27 +13,36 @@ Resources:
   - people
   - money
   - training
+
 ---
+
 ## Attack Vectors
 It's tough to protect what you don't know.
 - OWasp (Open Web Application Security Project)
-- Pluralsight @note[devops]
+- Pluralsight
 
 Note:
 Educate, keep up to date, share
+Pluralsight - DevOps discount
 ---
 
 ## 1 - Injection
 
+@transition[none]
 +++
+@transition[none]
 
 ## 1 - Injection
 
-* SQL |
-* NoSQL |
-* LDAP |
+@ul
+* SQL
+* NoSQL
+* LDAP
+@ulend
 
+@transition[none]
 +++
+@transition[none]
 
 ### 1 - Injection - Prevention
 
@@ -48,7 +58,9 @@ Educate, keep up to date, share
 
 ## 2 - Broken Authentication
 
+@transition[none]
 +++
+@transition[none]
 
 ## 2 - Broken Authentication
 
