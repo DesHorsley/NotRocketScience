@@ -25,14 +25,11 @@ Note:
 Educate, keep up to date, share
 Pluralsight - DevOps discount
 ---
-
 ## 1 - Injection
-
 @transition[none]
 +++
 @transition[none]
 ## 1 - Injection
-
 @ul
 * SQL
 * NoSQL
@@ -43,7 +40,6 @@ Pluralsight - DevOps discount
 +++
 @transition[none]
 ### 1 - Injection - Prevention
-
 @ul
 
 * Parameterized Queries
@@ -51,17 +47,12 @@ Pluralsight - DevOps discount
 * Validate input - white lists / black lists
 
 @ulend
-
 ---
-
 ## 2 - Broken Authentication
-
 @transition[none]
 +++
 @transition[none]
-
 ## 2 - Broken Authentication
-
 * Credential stuffing
 * Brute Force |
 * Allowing weak passwords |
@@ -213,10 +204,6 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 
 ## 7 - XSS (Cross-Site Scripting)
 
-notes:
-* Reflective
-* Stored
-* DOM Based
 
 +++
 
@@ -227,6 +214,11 @@ notes:
 * CSP's in the absince of other vulnerabilities
 * Escaping data and context-sensitive encoding
 @ulend
+
+notes:
+* Reflective
+* Stored
+* DOM Based
 
 +++
 
