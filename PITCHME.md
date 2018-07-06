@@ -26,6 +26,7 @@ Educate, keep up to date, share
 Pluralsight - DevOps discount
 ---
 ## 1 - Injection
+@fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
@@ -49,6 +50,7 @@ Pluralsight - DevOps discount
 @ulend
 ---
 ## 2 - Broken Authentication
+@fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
