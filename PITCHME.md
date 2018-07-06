@@ -25,12 +25,14 @@ Note:
 Educate, keep up to date, share
 Pluralsight - DevOps discount
 ---
-## 1 - Injection @fa[fa-flash]
+## 1 - Injection
+@fa[fa-flash]
 @fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
-## 1 - Injection @fa[fa-flash]
+## 1 - Injection
+@fa[fa-flash]
 @ul
 * SQL
 * NoSQL
@@ -48,12 +50,14 @@ Pluralsight - DevOps discount
 
 @ulend
 ---
-## 2 - Broken Authentication @fa[fa-key]
+## 2 - Broken Authentication
+@fa[fa-key]
 @fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
-## 2 - Broken Authentication @fa[fa-key]
+## 2 - Broken Authentication
+@fa[fa-key]
 * Credential stuffing
 * Brute Force |
 * Allowing weak passwords |
@@ -76,11 +80,13 @@ Pluralsight - DevOps discount
 
 ---
 
-## 3 - Sensitive Data Exposure @fa[fa-user-secret]
+## 3 - Sensitive Data Exposure
+@fa[fa-user-secret]
 @transition[none]
 +++
 @transition[none]
-## 3 - Sensitive Data Exposure @fa[fa-user-secret]
+## 3 - Sensitive Data Exposure
+@fa[fa-user-secret]
 
 @ul
 * Transmission of data over clear text (HTTP, SMTP, FTP) @note[External traffic, load balancers, internal routing]
@@ -105,11 +111,13 @@ Pluralsight - DevOps discount
 @ulend
 ---
 
-## 4 - XML External Entities (XXE) @fa[fa-file-excel-o]
+## 4 - XML External Entities (XXE)
+@fa[fa-file-excel-o]
 @transition[none]
 +++
 @transition[none]
-## 4 - XML External Entities (XXE) @fa[fa-file-excel-o]
+## 4 - XML External Entities (XXE)
+@fa[fa-file-excel-o]
 
 @ul
 * Application that accept xml either directly or as an uploaded file
@@ -139,11 +147,13 @@ Additionally API sercurity gateways, Web Application Firewalls , and virtual pat
 
 ---
 
-## 5 - Broken Access Control @[fa-bank]
+## 5 - Broken Access Control
+@[fa-bank]
 @transition[none]
 +++
 @transition[none]
-## 5 - Broken Access Control @[fa-bank]
+## 5 - Broken Access Control
+@[fa-bank]
 
 @ul
 * Bypassing control checks
@@ -173,11 +183,13 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 
 ---
 
-## 6 - Security Misconfiguration @fa[fa-cab]
+## 6 - Security Misconfiguration
+@fa[fa-cab]
 @transition[none]
 +++
 @transition[none]
-## 6 - Security Misconfiguration @fa[fa-cab]
+## 6 - Security Misconfiguration
+@fa[fa-cab]
 
 @ul
 * Missed opportunities to harden the application stack
@@ -203,11 +215,13 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 
 ---
 
-## 7 - XSS (Cross-Site Scripting) @fa[fa-exchange]
+## 7 - XSS (Cross-Site Scripting)
+@fa[fa-exchange]
 @transition[none]
 +++
 @transition[none]
-## 7 - XSS (Cross-Site Scripting) @fa[fa-exchange]
+## 7 - XSS (Cross-Site Scripting)
+@fa[fa-exchange]
 
 @ul
 * Use of frameworks to excape XSS @note[Ruby on Rails, React JS]
@@ -233,11 +247,13 @@ notes:
 
 ---
 
-## 8 - Insecure Deserialization @fa[fa-gears]
+## 8 - Insecure Deserialization
+@fa[fa-gears]
 @transition[none]
 +++
 @transition[none]
-## 8 - Insecure Deserialization @fa[fa-gears]
+## 8 - Insecure Deserialization
+@fa[fa-gears]
 
 @ul
 * Deserialization of unsafe or unknown objects
@@ -258,11 +274,13 @@ notes:
 
 ---
 
-## 9 - Known Vulnerabilities in Components @fa[fa-frown-o]
+## 9 - Known Vulnerabilities in Components
+@fa[fa-frown-o]
 @transition[none]
 +++
 @transition[none]
-## 9 - Known Vulnerabilities in Components @fa[fa-frown-o]
+## 9 - Known Vulnerabilities in Components
+@fa[fa-frown-o]
 
 @ul
 * Unknown components / dependencies - Server side and client side
@@ -284,11 +302,13 @@ notes:
 
 ---
 
-## 10 - Insufficient Monitoring @fa[fa-low-vision]
+## 10 - Insufficient Monitoring
+@fa[fa-low-vision]
 @transition[none]
 +++
 @transition[none]
-## 10 - Insufficient Monitoring @fa[fa-low-vision]
+## 10 - Insufficient Monitoring
+@fa[fa-low-vision]
 
 @ul
 * Auditable events - logins, high value transactions
