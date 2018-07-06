@@ -26,13 +26,13 @@ Educate, keep up to date, share
 Pluralsight - DevOps discount
 ---
 ## 1 - Injection
-@fa[fa-flash]
+@fa[flash]
 @fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
 ## 1 - Injection
-@fa[fa-flash]
+@fa[flash]
 @ul
 * SQL
 * NoSQL
@@ -51,13 +51,13 @@ Pluralsight - DevOps discount
 @ulend
 ---
 ## 2 - Broken Authentication
-@fa[fa-key]
+@fa[key]
 @fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
 ## 2 - Broken Authentication
-@fa[fa-key]
+@fa[key]
 * Credential stuffing
 * Brute Force |
 * Allowing weak passwords |
@@ -81,12 +81,12 @@ Pluralsight - DevOps discount
 ---
 
 ## 3 - Sensitive Data Exposure
-@fa[fa-user-secret]
+@fa[user-secret]
 @transition[none]
 +++
 @transition[none]
 ## 3 - Sensitive Data Exposure
-@fa[fa-user-secret]
+@fa[user-secret]
 
 @ul
 * Transmission of data over clear text (HTTP, SMTP, FTP) @note[External traffic, load balancers, internal routing]
@@ -112,12 +112,12 @@ Pluralsight - DevOps discount
 ---
 
 ## 4 - XML External Entities (XXE)
-@fa[fa-file-excel-o]
+@fa[file-excel-o]
 @transition[none]
 +++
 @transition[none]
 ## 4 - XML External Entities (XXE)
-@fa[fa-file-excel-o]
+@fa[file-excel-o]
 
 @ul
 * Application that accept xml either directly or as an uploaded file
@@ -148,12 +148,12 @@ Additionally API sercurity gateways, Web Application Firewalls , and virtual pat
 ---
 
 ## 5 - Broken Access Control
-@[fa-bank]
+@[bank]
 @transition[none]
 +++
 @transition[none]
 ## 5 - Broken Access Control
-@[fa-bank]
+@[bank]
 
 @ul
 * Bypassing control checks
@@ -184,12 +184,12 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 ---
 
 ## 6 - Security Misconfiguration
-@fa[fa-cab]
+@fa[cab]
 @transition[none]
 +++
 @transition[none]
 ## 6 - Security Misconfiguration
-@fa[fa-cab]
+@fa[cab]
 
 @ul
 * Missed opportunities to harden the application stack
@@ -216,12 +216,12 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 ---
 
 ## 7 - XSS (Cross-Site Scripting)
-@fa[fa-exchange]
+@fa[exchange]
 @transition[none]
 +++
 @transition[none]
 ## 7 - XSS (Cross-Site Scripting)
-@fa[fa-exchange]
+@fa[exchange]
 
 @ul
 * Use of frameworks to excape XSS @note[Ruby on Rails, React JS]
@@ -248,12 +248,12 @@ notes:
 ---
 
 ## 8 - Insecure Deserialization
-@fa[fa-gears]
+@fa[gears]
 @transition[none]
 +++
 @transition[none]
 ## 8 - Insecure Deserialization
-@fa[fa-gears]
+@fa[gears]
 
 @ul
 * Deserialization of unsafe or unknown objects
@@ -275,12 +275,12 @@ notes:
 ---
 
 ## 9 - Known Vulnerabilities in Components
-@fa[fa-frown-o]
+@fa[frown-o]
 @transition[none]
 +++
 @transition[none]
 ## 9 - Known Vulnerabilities in Components
-@fa[fa-frown-o]
+@fa[frown-o]
 
 @ul
 * Unknown components / dependencies - Server side and client side
@@ -303,12 +303,12 @@ notes:
 ---
 
 ## 10 - Insufficient Monitoring
-@fa[fa-low-vision]
+@fa[low-vision]
 @transition[none]
 +++
 @transition[none]
 ## 10 - Insufficient Monitoring
-@fa[fa-low-vision]
+@fa[low-vision]
 
 @ul
 * Auditable events - logins, high value transactions
