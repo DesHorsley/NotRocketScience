@@ -24,10 +24,9 @@ It's tough to protect what you don't know.
 Note:
 Educate, keep up to date, share
 Pluralsight - DevOps discount
----
+---?image=https://images.unsplash.com/photo-1518015272815-38d797b67619
 ## 1 - Injection
 @fa[flash]
-@fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
@@ -49,10 +48,9 @@ Pluralsight - DevOps discount
 * Validate input - white lists / black lists
 
 @ulend
----
+---?image=https://images.unsplash.com/photo-1493305344584-c928c32c2af1
 ## 2 - Broken Authentication
 @fa[key]
-@fa[arrow-down]
 @transition[none]
 +++
 @transition[none]
@@ -78,7 +76,7 @@ Pluralsight - DevOps discount
 @transition[none]
 ### 2 - Broken Authentication - References
 
----
+---?image=https://images.unsplash.com/photo-1519781542704-957ff19eff00
 
 ## 3 - Sensitive Data Exposure
 @fa[user-secret]
@@ -109,7 +107,7 @@ Pluralsight - DevOps discount
 * Disable caching of sensitive data
 * Store passwords with strong encryption @note[Argon2, scrypt, bcrypt, PBKDF2]
 @ulend
----
+---?image=https://images.unsplash.com/photo-1454165205744-3b78555e5572
 
 ## 4 - XML External Entities (XXE)
 @fa[file-excel-o]
@@ -145,7 +143,7 @@ Pluralsight - DevOps discount
 
 Additionally API sercurity gateways, Web Application Firewalls , and virtual patching can be used to detect, monitor and block XXE attacks.
 
----
+---?image=https://images.unsplash.com/photo-1441804238730-210ce1c2cc00
 
 ## 5 - Broken Access Control
 @fa[bank]
@@ -181,7 +179,7 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 * Invalidate JWT tokens on the server after logout
 @ulend
 
----
+---?image=https://images.unsplash.com/photo-1514907739076-43623f1ac73a
 
 ## 6 - Security Misconfiguration
 @fa[cab]
@@ -213,7 +211,7 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 * Segmented application architecture
 @ulend
 
----
+---?image=https://images.unsplash.com/photo-1455390582262-044cdead277a
 
 ## 7 - XSS (Cross-Site Scripting)
 @fa[exchange]
@@ -245,7 +243,7 @@ notes:
 * Enable CSP
 @ulend
 
----
+---?image=https://images.unsplash.com/photo-1523961131990-5ea7c61b2107
 
 ## 8 - Insecure Deserialization
 @fa[gears]
@@ -272,7 +270,7 @@ notes:
 * Improved logging - Exceptions, unusually high activity, failures
 @ulend
 
----
+---?image=https://images.unsplash.com/photo-1483706600674-e0c87d3fe85b
 
 ## 9 - Known Vulnerabilities in Components
 @fa[frown-o]
@@ -300,7 +298,7 @@ notes:
 * Use of maintained libraries
 @ulend
 
----
+---?image=https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44
 
 ## 10 - Insufficient Monitoring
 @fa[low-vision]
@@ -328,7 +326,7 @@ notes:
 * Establish alerts for suspicious patterns
 @ulend
 
----
+---?image=https://images.unsplash.com/photo-1509822429293-98a3c3fe6bee
 
 ## Passwords
 @transition[none]
@@ -345,11 +343,14 @@ notes:
 ---?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec
 
 # <span class="light-background">The Spectrum</span>
-<span class="light-background">Security a journey, not a destination</span>
-@ul
-* Pick the low hanging fruit and take the win @note[If you don't the attackers will]
-@ulend
-
+<div class="light-background">Security a journey, not a destination</span>
+  @ul
+  * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
+  * Review OWasp top 10
+  * Investigate some of the pen test tools available
+  * Tell a friend
+  @ulend
+</div>
 ---
 ## Thanks for listening
 
