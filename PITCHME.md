@@ -342,7 +342,7 @@ notes:
 * Password managers
 * Recycling
 @ulend
----?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e37dd2b5436700ff9499defc7d137d31&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb
+---?image="https://images.unsplash.com/photo-1526758405662-5998b5bee9ec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e37dd2b5436700ff9499defc7d137d31&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb"
 
 # The Spectrum
 <span class="light-background"><span>Security a journey, not a destination</span></span>
