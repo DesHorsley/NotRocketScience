@@ -344,8 +344,8 @@ notes:
 @ulend
 ---?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec
 
-# The Spectrum
-<span class="light-background"><span>Security a journey, not a destination</span></span>
+# <span class="light-background">The Spectrum</span>
+<span class="light-background">Security a journey, not a destination</span>
 @ul
 * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
 @ulend
