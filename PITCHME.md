@@ -148,12 +148,12 @@ Additionally API sercurity gateways, Web Application Firewalls , and virtual pat
 ---
 
 ## 5 - Broken Access Control
-@[bank]
+@fa[bank]
 @transition[none]
 +++
 @transition[none]
 ## 5 - Broken Access Control
-@[bank]
+@fa[bank]
 
 @ul
 * Bypassing control checks
@@ -330,14 +330,22 @@ notes:
 
 ---
 
-# Passwords
+## Passwords
+@transition[none]
++++
+@transition[none]
+## Passwords
 
----?image=assets/spectrum_wave_by_monkeymagico.png
-
-[comment]: # (Image found at https://monkeymagico.deviantart.com/art/Spectrum-Wave-133641157)
+@ul
+* Length / Complexity / Expiry @note[Mainframe 1970 https://kyhwana.org/blog/2015/11/10/why-you-shouldnt-be-doing-password-expiry/]
+* MFA
+* Password managers
+* Recycling
+@ulend
+---?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e37dd2b5436700ff9499defc7d137d31&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb
 
 # The Spectrum
-<span class="dark-background"><span>Security a journey, not a destination</span></span>
+<span class="light-background"><span>Security a journey, not a destination</span></span>
 @ul
 * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
 @ulend
