@@ -313,7 +313,7 @@ notes:
 * Not monitoring application and API logs for suspicious activity
 * Logs stored locally
 * Alert thresholds and escalation processes missing
-* Pen test scans are missing or do not trigger alarms
+* Pen test scans missing or do not trigger alarms
 @ulend
 
 +++
@@ -342,7 +342,12 @@ notes:
 @ulend
 ---?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec
 
-# The Spectrum
+## The Spectrum
+@transition[none]
++++
+@transition[none]
+## The Spectrum
+@fa[wheelchair-alt]
 Security a journey, not a destination
   @ul
   * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
