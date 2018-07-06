@@ -143,7 +143,7 @@ Pluralsight - DevOps discount
 
 Additionally API sercurity gateways, Web Application Firewalls , and virtual patching can be used to detect, monitor and block XXE attacks.
 
----?image=https://images.unsplash.com/photo-1441804238730-210ce1c2cc00?transform=rotate(-180deg)
+---?image=https://images.unsplash.com/photo-1507733632127-c581e378e550
 
 ## 5 - Broken Access Control
 @fa[bank]
@@ -342,15 +342,14 @@ notes:
 @ulend
 ---?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec
 
-# <span class="light-background">The Spectrum</span>
-<div class="light-background">Security a journey, not a destination</span>
+# The Spectrum
+Security a journey, not a destination
   @ul
   * Pick the low hanging fruit and take the win @note[If you don't the attackers will]
   * Review OWasp top 10
   * Investigate some of the pen test tools available
   * Tell a friend
   @ulend
-</div>
 ---
 ## Thanks for listening
 
