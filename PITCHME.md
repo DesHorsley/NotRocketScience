@@ -223,7 +223,7 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 
 @ul
 * Use of frameworks to excape XSS @note[Ruby on Rails, React JS]
-* CSP's in the absince of other vulnerabilities
+* CSP's in the absence of other vulnerabilities
 * Escaping data and context-sensitive encoding
 @ulend
 
