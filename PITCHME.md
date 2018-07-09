@@ -20,10 +20,18 @@ Resources:
 It's tough to protect what you don't know.
 - OWasp (Open Web Application Security Project)
 - Pluralsight
+- Who are you protecting against
 
 Note:
 Educate, keep up to date, share
 Pluralsight - DevOps discount
+
++++
+
+## No really, who?
+
+![Video](https://youtu.be/TFxiBvJjZmA?t=119)
+
 ---?image=https://images.unsplash.com/photo-1518015272815-38d797b67619
 ## 1 - Injection
 @fa[flash]
@@ -222,13 +230,13 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 @fa[exchange]
 
 @ul
-* Use of frameworks to excape XSS @note[Ruby on Rails, React JS]
+* Use of frameworks to escape XSS @note[Ruby on Rails, React JS]
 * CSP's in the absence of other vulnerabilities
 * Escaping data and context-sensitive encoding
 @ulend
 
 notes:
-* Reflective
+* Reflective - '); alert();//
 * Stored
 * DOM Based
 
@@ -239,7 +247,7 @@ notes:
 @ul
 * Use frameworks that automatically escape XSS by design (Ruby on Rails, React JS)
 * Escape untrusted HTTP request data
-* Context-sensiteve encoding when modifying browser document
+* Context-sensitive encoding when modifying browser document
 * Enable CSP
 @ulend
 
@@ -298,6 +306,9 @@ notes:
 * Use of maintained libraries
 @ulend
 
+Notes:
+SRI
+
 ---?image=https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44
 
 ## 10 - Insufficient Monitoring
@@ -340,6 +351,20 @@ notes:
 * Password managers
 * Recycling
 @ulend
+
+---?image=https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg
+
+## Tools
+
+@ul
+* Fiddler (Win) / Charles (Mac), OWasp Zed Attack Proxy @note[netsparker]
+* Report-uri
+* https://www.cypress.io/ - Test framework
+* Ssllabs.com
+* sqlmap - sqlmap.org, burp suite, Havij
+* Google Dorks @note[Stay out of google dorks `inurl:index.php?id=`]
+@ulend
+
 ---?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec
 
 ## The Spectrum
