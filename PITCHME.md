@@ -30,7 +30,7 @@ Pluralsight - DevOps discount
 
 ## No really, who?
 
-![Video](https://youtu.be/TFxiBvJjZmA?t=119)
+[![Budding hacker](https://i.ytimg.com/vi/TFxiBvJjZmA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB8O6mX5DR0jsFTWyCu1F5e7QoYg)](https://youtu.be/TFxiBvJjZmA?t=119 "Training the masses")
 
 ---?image=https://images.unsplash.com/photo-1518015272815-38d797b67619
 ## 1 - Injection
