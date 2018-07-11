@@ -352,7 +352,8 @@ SRI
 * Recycling
 @ulend
 
----?image=https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer Collateral test.jpg?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4e6cb38a2b7ce702bc48afa2badadef6&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb
+---?image=https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer Collateral test.jpg
+
 ## Tools
 
 @ul
