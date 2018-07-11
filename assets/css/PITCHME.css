@@ -16,10 +16,10 @@
     filter: blur(2px);
 }
 
-/* Moves the credit badge to the bottom right of the screen */
+/* Moves the credit badge to the top left of the screen */
 p a.attribution {
     position: absolute;
-    right: 0px;
-    bottom: 0px;
+    left: 0px;
+    top: 0px;
     font-size: 75%;
 }
