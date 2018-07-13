@@ -362,7 +362,7 @@ SRI
 * Recycling
 @ulend
 
----?image=https://images.unsplash.com/photo-1453806839674-d1a9087ca1ed
+---?image=https://images.unsplash.com/photo-1453806839674-d1a9087ca1ed?ixlib=rb-0.3.5&s=e476e2845b3a2f6edc039d2f51b8e7ce&auto=format&fit=crop&w=1350&q=80
 
 ## Tools
 
