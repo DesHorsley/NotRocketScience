@@ -1,5 +1,5 @@
 ## Security, it's not rocket science
-### Lessons learnt from NDC Security Sydney 2018
+### Lessons learnt from NDC Security GoldCoast 2018
 
 ---?image=https://images.unsplash.com/photo-1517976487492-5750f3195933
 @title[Its harder]
