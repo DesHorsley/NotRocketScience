@@ -84,7 +84,6 @@ Pluralsight - DevOps discount
 @transition[none]
 +++
 @transition[none]
-### 2 - Broken Authentication - References
 
 ---?image=https://images.unsplash.com/photo-1519781542704-957ff19eff00
 
