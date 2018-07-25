@@ -314,7 +314,7 @@ Note:
 * Use of maintained libraries
 @ulend
 
-Notes:
+Note:
 SRI
 
 ---?image=https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44
