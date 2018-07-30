@@ -67,9 +67,9 @@ Pluralsight - DevOps discount
 ## 2 - Broken Authentication
 @fa[key]
 * Credential stuffing
-* Brute Force |
-* Allowing weak passwords |
-* Improper token invalidation |
+* Brute Force
+* Allowing weak passwords
+* Improper token invalidation
 @transition[none]
 +++
 @transition[none]
@@ -78,11 +78,8 @@ Pluralsight - DevOps discount
 * MFA @note[How to deal with account lockouts]
 * Don't allow weak passwords @note[Have I been pwned, Okta etc]
 * Harden against enumeration attacks
-* Delay failed login attempts <sup>*</sup>
-* More details
+* Delay failed login attempts @note[Don't introduce new issues. Capture, know what you are protecting against.]
 @ulend
-@transition[none]
-+++
 @transition[none]
 
 ---?image=https://images.unsplash.com/photo-1519781542704-957ff19eff00
