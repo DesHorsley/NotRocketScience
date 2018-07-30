@@ -83,7 +83,7 @@ Pluralsight - DevOps discount
 @ulend
 @transition[none]
 
----?image=assets/photo-1519781542704-957ff19eff00
+---?image=assets/photo-1519781542704-957ff19eff00.jpg
 
 ## 3 - Sensitive Data Exposure
 @fa[user-secret]
