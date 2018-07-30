@@ -33,7 +33,7 @@ Pluralsight - DevOps discount
 
 [![Budding hacker](https://i.ytimg.com/vi/TFxiBvJjZmA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB8O6mX5DR0jsFTWyCu1F5e7QoYg)](https://youtu.be/TFxiBvJjZmA?t=119 "Training the masses")
 
----?image=assets/photo-1518015272815-38d797b67619,jpg
+---?image=assets/photo-1518015272815-38d797b67619.jpg
 ## 1 - Injection
 @fa[flash]
 <a class="attribution" style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@gypsycompassrose?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Wendy Scofield"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Image by Wendy Scofield</span></a>
@@ -58,7 +58,7 @@ Pluralsight - DevOps discount
 * Validate input - white lists / black lists
 
 @ulend
----?image=https://images.unsplash.com/photo-1493305344584-c928c32c2af1
+---?image=assets/photo-1493305344584-c928c32c2af1.jpg
 ## 2 - Broken Authentication
 @fa[key]
 <a class="attribution" style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@r3dmax?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Jonatan Pie"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Image by Jonatan Pie</span></a>
@@ -115,7 +115,7 @@ Pluralsight - DevOps discount
 * Disable caching of sensitive data
 * Store passwords with strong encryption @note[Argon2, scrypt, bcrypt, PBKDF2]
 @ulend
----?image=https://images.unsplash.com/photo-1454165205744-3b78555e5572
+---?image=assets/photo-1454165205744-3b78555e5572.jpg
 
 ## 4 - XML External Entities (XXE)
 @fa[file-excel-o]
@@ -152,7 +152,7 @@ Pluralsight - DevOps discount
 
 Additionally API sercurity gateways, Web Application Firewalls , and virtual patching can be used to detect, monitor and block XXE attacks.
 
----?image=https://images.unsplash.com/photo-1507733632127-c581e378e550
+---?image=assets/photo-1507733632127-c581e378e550.jpg
 
 ## 5 - Broken Access Control
 @fa[bank]
@@ -189,7 +189,7 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 * Invalidate JWT tokens on the server after logout
 @ulend
 
----?image=https://images.unsplash.com/photo-1514907739076-43623f1ac73a
+---?image=assets/photo-1514907739076-43623f1ac73a.jpg
 
 ## 6 - Security Misconfiguration
 @fa[cab]
@@ -222,7 +222,7 @@ Static Application Security Testing, Dynamic Application Security Testing, Autom
 * Segmented application architecture
 @ulend
 
----?image=https://images.unsplash.com/photo-1455390582262-044cdead277a
+---?image=assets/photo-1455390582262-044cdead277a.jpg
 
 ## 7 - XSS (Cross-Site Scripting)
 @fa[exchange]
@@ -255,7 +255,7 @@ Note:
 * Enable CSP
 @ulend
 
----?image=https://images.unsplash.com/photo-1523961131990-5ea7c61b2107
+---?image=assets/photo-1523961131990-5ea7c61b2107.jpg
 
 ## 8 - Insecure Deserialization
 @fa[gears]
@@ -283,7 +283,7 @@ Note:
 * Improved logging - Exceptions, unusually high activity, failures
 @ulend
 
----?image=https://images.unsplash.com/photo-1483706600674-e0c87d3fe85b
+---?image=assets/photo-1483706600674-e0c87d3fe85b.jpg
 
 ## 9 - Known Vulnerabilities in Components
 @fa[frown-o]
@@ -315,7 +315,7 @@ Note:
 Note:
 SRI
 
----?image=https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44
+---?image=assets/photo-1496368077930-c1e31b4e5b44.jpg
 
 ## 10 - Insufficient Monitoring
 @fa[low-vision]
@@ -344,7 +344,7 @@ SRI
 * Establish alerts for suspicious patterns
 @ulend
 
----?image=https://images.unsplash.com/photo-1509822429293-98a3c3fe6bee
+---?image=assets/photo-1509822429293-98a3c3fe6bee.jpg
 ## Passwords
 <a class="attribution" style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@mrbrodeur?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Matthew Brodeur"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Image by Matthew Brodeur</span></a>
 @transition[none]
@@ -359,7 +359,7 @@ SRI
 * Recycling
 @ulend
 
----?image=https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg
+---?image=assets/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg
 
 ## Tools
 @fa[wrench]
@@ -378,7 +378,7 @@ SRI
 * Google Dorks @note[Stay out of google dorks `inurl:index.php?id=`]
 @ulend
 
----?image=https://images.unsplash.com/photo-1526758405662-5998b5bee9ec
+---?image=assets/photo-1526758405662-5998b5bee9ec.jpg
 ## The Spectrum
 @transition[none]
 +++
