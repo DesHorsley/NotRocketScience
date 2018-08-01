@@ -252,7 +252,7 @@ Note:
 * Use frameworks that automatically escape XSS by design (Ruby on Rails, React JS)
 * Escape untrusted HTTP request data
 * Context-sensitive encoding when modifying browser document
-* Enable CSP
+* Enable CSP @note[Demonstrate using harlemshake from https://pastebin.com/aJna4paJ]
 @ulend
 
 ---?image=assets/photo-1523961131990-5ea7c61b2107.jpg
@@ -398,6 +398,6 @@ Security a journey, not a destination
 This deck: https://github.com/DesHorsley/NotRocketScience
 ### References
 
-https://www.owasp.org
-https://haveibeenpwned.com/
-https://unsplash.com
+* https://www.owasp.org
+* https://haveibeenpwned.com/
+* https://unsplash.com
